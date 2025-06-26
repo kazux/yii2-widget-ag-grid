@@ -23,8 +23,8 @@
     }
   ],
   "require": {
-    "php": "^7.1",
-    "yiisoft/yii2": "~2.0.14",
+    "php": " ^8.0",
+    "yiisoft/yii2": "~2.0.52",
     "bower-asset/ag-grid": "*"
   },
   "autoload": {
